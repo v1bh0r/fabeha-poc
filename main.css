@@ -1,0 +1,55 @@
+@page {
+  size: 50mm 100mm;
+}
+
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  text-align: center;
+}
+
+body {
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+.brand-line1 {
+  font-size: 1.75em;
+}
+
+.brand-line2 {
+  font-size: 1.3333em;
+}
+
+h4 {
+  font-size: 1.3333em;
+}
+
+.social-logo img {
+  width: 2em;
+}
+
+.barcode img {
+  height: 4em;
+}
+div.address {
+  display: inline-block;
+  text-align: left;
+}
+
+div.address.address-line {
+  text-align: left;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
